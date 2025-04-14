@@ -14,6 +14,7 @@ My exploration of cybersecurity has ignited a passion for threat detection and d
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Honeypot Implementation and Log Analysis      | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -22,7 +23,7 @@ My exploration of cybersecurity has ignited a passion for threat detection and d
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -31,6 +32,12 @@ My exploration of cybersecurity has ignited a passion for threat detection and d
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+
+    
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -45,7 +52,7 @@ My exploration of cybersecurity has ignited a passion for threat detection and d
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/PreaceMaxi-1786/CFDAB11E994D4A49?sharingId=29AD419224A73859">
@@ -57,8 +64,7 @@ My exploration of cybersecurity has ignited a passion for threat detection and d
 <a href="https://api.accredible.com/v1/auth/invite?code=557db62a5b934918265c&credential_id=bb194a1e-03d2-4546-875c-bed80c62dcbb&url=https%3A%2F%2Fcertifications.asana.com%2Fbb194a1e-03d2-4546-875c-bed80c62dcbb&ident=ae536119-ba71-4449-ba59-3211f0e02298">
   <img src="https://img.shields.io/badge/-Workflow_Specialist-690031?style=for-the-badge&logo=asana&logoColor=F68022&textColor=white" alt="Asana Workflow Specialist" />
 </a>
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
 
 ## Projects
 - Detection Lab
