@@ -48,9 +48,15 @@ My exploration of cybersecurity has ignited a passion for threat detection and d
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/PreaceMaxi-1786/CFDAB11E994D4A49?sharingId=29AD419224A73859">
+  <img src="https://img.shields.io/badge/Microsoft_Certified-AZ--900-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Certified: AZ-900" />
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/PreaceMaxi-1786/B6B2E95AE3AA2597?sharingId=29AD419224A73859">
+  <img src="https://img.shields.io/badge/Microsoft_Certified-SC--900-A020F0?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900 Certification" />
+</a>
+<a href="https://api.accredible.com/v1/auth/invite?code=557db62a5b934918265c&credential_id=bb194a1e-03d2-4546-875c-bed80c62dcbb&url=https%3A%2F%2Fcertifications.asana.com%2Fbb194a1e-03d2-4546-875c-bed80c62dcbb&ident=ae536119-ba71-4449-ba59-3211f0e02298">
+  <img src="https://img.shields.io/badge/-Workflow_Specialist-690031?style=for-the-badge&logo=asana&logoColor=F68022&textColor=white" alt="Asana Workflow Specialist" />
+</a>
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
