@@ -14,7 +14,7 @@ My exploration of IT has ignited a passion for threat detection and defensive st
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Honeypot Implementation and Log Analysis      | <a href="https://google.com">Detection Lab (Honeypot)</a>|
+| Honeypot Implementation and Log Analysis      | <a href="https://github.com/PreaceM/Detection-Lab-Honeypot-">Detection Lab (Honeypot)</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab (SIEM)</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
