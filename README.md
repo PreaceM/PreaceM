@@ -10,7 +10,6 @@ I’m a passionate, self-driven technology enthusiast with a knack for solving c
 My exploration of IT has ignited a passion for threat detection and defensive strategies. Now, I'm eager to transition into the field, with a focused goal of contributing to a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -67,6 +66,6 @@ My exploration of IT has ignited a passion for threat detection and defensive st
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/PreaceM/Detection-Lab-Honeypot-">Detection Lab (Honeypot)</a>
 - SOC Automation Project
 - Password Strength Checker
