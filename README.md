@@ -68,4 +68,4 @@ My exploration of IT has ignited a passion for threat detection and defensive st
 - <a href="https://github.com/PreaceM/Detection-Lab-Honeypot-">Detection Lab (Honeypot)</a>
 - <a href="https://github.com/PreaceM/Detection-Lab-SIEM-/blob/main/README.md">Detection Lab (SIEM)</a>                                                                                          
 - SOC Automation Project
-- Password Strength Checker
+- <a href="https://github.com/PreaceM/Password-Strength-Checker/blob/main/README.md">Password Strength Checker</a>
