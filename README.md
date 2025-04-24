@@ -26,28 +26,48 @@ My exploration of IT has ignited a passion for threat detection and defensive st
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <a href="https://www.wireshark.org/">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
+    <a href="https://suricata.io/">
+  <img src="https://img.shields.io/badge/-Suricata-FF6600?style=for-the-badge&logo=linux&logoColor=white" />
+</a>
+    <a href="https://zeek.org/">
+  <img src="https://img.shields.io/badge/-Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white" />
+</a>
 </div>
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <a href="https://aws.amazon.com/s3/">
+  <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+</a>
+    <a href="https://azure.microsoft.com/">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</a>
 
     
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://www.microsoft.com/security/business/endpoint-security/microsoft-defender-endpoint">
+  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft-defender&logoColor=white" />
+</a>
+    <a href="https://docs.velociraptor.app/">
+  <img src="https://img.shields.io/badge/-Velociraptor-FF0000?style=for-the-badge&logo=velociraptor&logoColor=white" />
+</a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://azure.microsoft.com/products/microsoft-sentinel/">
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-sentinel&logoColor=white" />
+</a>
+    <a href="https://www.splunk.com/">
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</a>
+    <a href="https://www.elastic.co/">
+  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</a>
 </div>
 
 # Certifications
