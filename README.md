@@ -16,9 +16,7 @@ My exploration of IT has ignited a passion for threat detection and defensive st
 | Honeypot Implementation and Log Analysis      | <a href="https://github.com/PreaceM/Detection-Lab-Honeypot-">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/PreaceM/Detection-Lab-SIEM-/blob/main/README.md">Detection Lab</a>|
 | Malware Attack Simulation & Analysis |<a href="https://github.com/PreaceM/SOC-Automation-Lab-SOC-Automation-Lab-Malware-Attack-Analysis/blob/main/README.md">SOC Automation Lab</a>| 
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
